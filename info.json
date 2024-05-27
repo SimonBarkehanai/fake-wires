@@ -1,0 +1,9 @@
+{
+    "name": "fake-wires",
+    "version": "0.0.1",
+    "factorio_version": "1.1",
+    "title": "Fake Wires",
+    "author": "Simon Barkehanai",
+    "description": "Replaces wires in recipes with fakes, so wires used in wiring (circuit and electric) don't clutter your inventory.",
+    "dependencies": []
+}
